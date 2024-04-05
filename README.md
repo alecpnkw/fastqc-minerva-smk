@@ -1,3 +1,3 @@
-# STAR-RSEM
+# fastqc-minerva-smk
 
-Work in progress.
+A snakemake workflow for Minerva.
